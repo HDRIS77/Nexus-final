@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "54611250235",
+    "project_id": "nexus-app-online",
+    "storage_bucket": "nexus-app-online.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54611250235:android:ee4edf23923dfd7597a01e",
+        "android_client_info": {
+          "package_name": "com.example.nexus_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54611250235-a3akgove18n6mklhpcmeevr5l4p0bl0e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy0lXssrUJo1SVMDW_INmEVeMMXWEpm4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54611250235-a3akgove18n6mklhpcmeevr5l4p0bl0e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
