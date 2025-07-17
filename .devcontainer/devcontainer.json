@@ -1,13 +1,13 @@
 {
-  "name": "Flutter Dev",
-  "image": "ghcr.io/cirruslabs/flutter:stable",
-  "features": {},
-  "postCreateCommand": "flutter doctor",
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "Dart-Code.flutter"
-      ]
-    }
-  }
+  "name": "Flutter Dev Container",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash"
+  },
+  "extensions": [
+    "Dart-Code.flutter"
+  ],
+  "postCreateCommand": "flutter doctor"
 }
